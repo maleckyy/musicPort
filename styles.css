@@ -39,6 +39,14 @@ img{
   text-shadow: black 5px 2px 10px;
   text-align: center;
 }
+#igRef{
+
+  color: rgb(211, 204, 204); 
+  text-shadow: black 5px 2px 10px;
+  text-align: center;
+
+
+}
 
 h5{
     text-align: center;
@@ -57,7 +65,11 @@ h5 .tag:hover{
     text-transform: uppercase;
     color: white;
     text-shadow: 0px 5px  #631192;
+
+
 }
+
+
 /* ---animacja M w maly------------------------------------------ */
 
 .word{
