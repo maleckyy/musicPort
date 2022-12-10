@@ -139,6 +139,9 @@ h3:hover{
   
   .cards {
     display: grid;
+    justify-content:center;
+    align-content: center;
+
     gap: 0.3rem 0.3rem;
     max-width: 1000px;
     margin: 0 auto;
