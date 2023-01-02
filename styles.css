@@ -47,6 +47,9 @@ img{
 
 
 }
+#igRef:hover{
+  text-transform: uppercase;
+}
 
 h5{
     text-align: center;
@@ -175,8 +178,4 @@ h3:hover{
   @media (min-width: 950px) {
     .cards { grid-template-columns: repeat(3, 1fr);}
   }
-
-
-
-
 
